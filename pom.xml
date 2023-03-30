@@ -31,7 +31,7 @@
     <repository>
         <id>central</id>
         <name>sarang-ubuntu-1-releases</name>
-        <url>http://sarangvm.com:8081/artifactory/s-libs-release-local</url>
+        <url>http://sarangvm.com:8081/artifactory/t-snapshot</url>
     </repository>
   </distributionManagement>
 
